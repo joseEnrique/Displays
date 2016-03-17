@@ -91,19 +91,7 @@ margin-left: 840px;
 }
 
 
-div.footer span{
-	
-	
-}
-.author{
-	position: absolute;
-	
-}
-.logofoot{
-	position: relative;
-	float: right;
 
-}
 
 pre {
 	font-family: monospace;
@@ -167,17 +155,16 @@ h1#prelogo {
 	top: 150px;
 	width: 735px;
 }
-h1#logo {
-	background-image: url(../images/jquery-mobile-logo.png);
-	height: 202px;
-	line-height: 1000px;
-	left: 50%;
-	margin-left: -368px;
-	overflow: hidden;
-	position: absolute;
-	top: 220px;
-	width: 735px;
+.logo {
+	margin-top: 105px;
+    text-align:center;
 }
+
+.content {
+	margin-top: 105px;
+    text-align:center;
+}
+
 ul {
 	padding: 60px;
 }
@@ -194,4 +181,23 @@ ul li {
 
 a {
 	color: #75B143;
+}
+
+h2 {
+	color: #121B28;
+	font-weight: bold;
+	font-family: 'Ubuntu', helvetica, trebuchet ms, serif;
+	font-size: 28pt;
+	margin-bottom: 14px;
+	margin-top: 10px;
+	text-align: center;
+}
+h3 {
+	color: #121B28;
+	
+	font-family: 'Ubuntu', helvetica, trebuchet ms, serif;
+	font-size: 22pt;
+	margin-bottom: 14px;
+	margin-top: 10px;
+	text-align: center;
 }
