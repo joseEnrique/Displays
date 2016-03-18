@@ -201,3 +201,11 @@ h3 {
 	margin-top: 10px;
 	text-align: center;
 }
+
+.cita{
+font: italic 1em Georgia, Times, "Times New Roman", serif;
+font-size: 2em;
+margin: 1.5em 2em 0 1.5em;
+padding: 0;
+text-align: center;
+}
